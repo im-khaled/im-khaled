@@ -19,10 +19,6 @@ For Instant Inquiry: ☑ Email: khaledmahmud.de@gmail.com ☑
 Thank You Khaled Mahmud
 
 
-**im-khaled/im-khaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ** Back-end Development **
 - 👯 I’m looking to collaborate on ** an open source projects.**
 - 🤔 I’m looking for help with ** Artifitial Intelligence **
