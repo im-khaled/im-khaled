@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Khaled Mahmud
 
-Frontend Developer | JavaScript | React JS | Node.js ||Next.js Tailwind => Actively looking for React | Frontend Role | ✉️ DMs are always OPEN ✉️|
+Frontend Developer | JavaScript | React JS | Node.js | Next.js Tailwind => Actively looking for React | Frontend Role | ✉️ DMs are always OPEN ✉️|
 
 About Me
 
