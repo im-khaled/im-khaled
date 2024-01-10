@@ -27,3 +27,8 @@ Thank You Khaled Mahmud                                                  ![codin
 - 💬 Ask me about React, Next.Js, Tailwind, Bootstrap, Node.js         
 - 📫 How to reach me: ** Email: imkhaledmahmud@gmail.com,                  
 
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
