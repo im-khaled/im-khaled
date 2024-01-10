@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Khaled Mahmud
 
+<hr>
+
 Frontend Developer | JavaScript | React JS | Node.js | Next.js Tailwind => Actively looking for React | Frontend Role | ✉️ DMs are always OPEN ✉️|
 
 About Me
@@ -27,8 +29,8 @@ Thank You Khaled Mahmud                                                  ![codin
 - 💬 Ask me about React, Next.Js, Tailwind, Bootstrap, Node.js         
 - 📫 How to reach me: ** Email: imkhaledmahmud@gmail.com,                  
 
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+<p align="left">
+  <a href="https://github.com/im-khaled">
+    <img src="" alt="khaled GitHub streak"/>
   </a>
 </p>
