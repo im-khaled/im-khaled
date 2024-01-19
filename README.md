@@ -35,7 +35,7 @@ Thank You Khaled Mahmud
   
 - 🌱 I’m currently learning ** Back-end Development **
 - 👯 I’m looking to collaborate on ** an open source projects.**
-- 🤔 I’m looking forward to collaborate on ** Useful web application **
+- 🤔 I’m looking forward to collaborate on ** Web application **
 - 💬 Ask me about React, Next.Js, Tailwind, Bootstrap, Node.js
 - 📫 How to reach me: ** Email: imkhaledmahmud@gmail.com
 
