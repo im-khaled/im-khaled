@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled Mahmud</h1>
 
-<h3 align="center">Frontend Developer | JavaScript | React JS | Node.js | Next.js Tailwind => Actively looking for React | Frontend Role | ✉️ DMs are always OPEN ✉️</h3>
+<h3 align="center">Frontend Developer | JavaScript | React JS | Next.js | Node.js | Tailwind => Actively looking for React or Next | Frontend Role | ✉️ DMs are always OPEN ✉️</h3>
 
 About Me
 
@@ -8,11 +8,11 @@ I am Khaled Mahmud from Germany. Front-End Developer with a background in Comput
 
 I'm passionate about Building useful Internet products and fulfilling my love and passion for coding by building useful Internet products, Web apps, and Websites.
 
-In my free time, I enjoy playing Football with my friends, Exercising regularly, and eating very healthy homemade food. I am a simple man living a simple and happy life.
+In my free time, I enjoy playing Football with my friends, Exercising regularly, and love to eat homemade food. I am a simple man living a simple and happy life.
 
-Experience with HTML5, CSS3, Javascript, React JS, Next JS, Node.js, Tailwind, and Bootstrap. Feel free to connect or message me if you want to collaborate on any projects. I would be delighted to connect and hear from you.
+Experience with HTML5, CSS3, Javascript, React JS, Next JS, Node.js, Express.js, Tailwind, Bootstrap and Typescript. Feel free to connect or message me if you want to collaborate on any projects. I would be delighted to connect and hear from you.
 
-Tech Highlights: ☑ Java Script ☑ React JS ☑ Next Js  ☑ Node.js ☑ HTML5 ☑ CSS3 ☑ Tailwind ☑ Bootstrap ☑ SEO ☑ Digital Marketing ☑ Design Thinking
+Tech Highlights: ☑ Java Script ☑ React JS ☑ Next Js  ☑ Node.js ☑ Express.js ☑ HTML5 ☑ CSS3 ☑ Tailwind ☑ Bootstrap ☑ SEO ☑ Digital Marketing
 
 For Instant Inquiry: ☑ Email: khaledmahmud.de@gmail.com ☑ 
 
@@ -35,7 +35,7 @@ Thank You Khaled Mahmud
   
 - 🌱 I’m currently learning ** Back-end Development **
 - 👯 I’m looking to collaborate on ** an open source projects.**
-- 🤔 I’m looking for help with ** Artifitial Intelligence **
+- 🤔 I’m looking looking forward to collaborate on ** Useful web application **
 - 💬 Ask me about React, Next.Js, Tailwind, Bootstrap, Node.js
 - 📫 How to reach me: ** Email: imkhaledmahmud@gmail.com
 
